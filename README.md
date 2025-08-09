@@ -1,3 +1,3 @@
 # amazon-clone
 <br>
-this is a clone made by using html and css
+This is a clone made by using html and css
